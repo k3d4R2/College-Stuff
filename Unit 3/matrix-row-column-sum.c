@@ -1,10 +1,10 @@
-//Program to check the sum of rows and columns in a matrix
+//Program to check the sum of rows and columns in a matrix , limit of 1000 rows and columns
 
 #include<stdio.h>
 
 int main()
 {
-    int i, j, rows, columns, a[10][10], rsum,csum;
+    int i, j, rows, columns, a[1000][1000], rsum,csum;
 
     printf("Please Enter Number of rows and columns  :  ");
     scanf("%d %d", &i, &j);
