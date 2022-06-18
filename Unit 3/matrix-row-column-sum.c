@@ -25,7 +25,7 @@ int main()
         {
             rsum = rsum + a[rows][columns];
         }
-        printf("The Sum of Elements of a Rows in a Matrix =  %d \n", rsum );
+        printf("The Sum of Elements of Row %d =  %d \n",rows+1, rsum );
     }
 
     for(columns = 0; columns < i; columns++)
@@ -35,7 +35,7 @@ int main()
         {
             csum = csum + a[rows][columns];
         }
-        printf("The Sum of Elements of a Columns in a Matrix =  %d \n", csum );
+        printf("The Sum of Elements of Column %d  =  %d \n",columns + 1, csum );
     }
 
     return 0;
