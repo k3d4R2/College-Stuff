@@ -1,3 +1,4 @@
+//Factorial using Recursion
 #include<stdio.h>
 
 long int factorial(int n);
@@ -13,7 +14,11 @@ long int factorial(int n)
 {
     if(n>=1)
     {
-        return n
+        return n*factorial(n-1)
+    }
+    else
+    {
+        return 1;
     }
 }
 
