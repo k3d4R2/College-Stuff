@@ -1,20 +1,28 @@
-     #include<stdio.h>
-    void fibo(int n){
-        static int n1=0,n2=1,n3;
-        if(n>0){
-             n3 = n1 + n2;
-             n1 = n2;
-             n2 = n3;
-             printf("%d ",n3);
-             fibo(n-1);
-        }
-    }
-    int main(){
-        int n;
-        printf("Enter the number of elements in series: ");
-        scanf("%d",&n);
-        printf("Fibonacci Series: ");
-        printf("%d %d ",0,1);
-        fibo(n-2);
-     return 0;
-    }
+#include <stdio.h>
+
+int fibbonacci(int n) 
+{
+   if(n == 0)
+   {
+      return 0;
+   } 
+   else if(n == 1)
+   {
+      return 1;
+   }
+    else 
+   {
+      return (fibbonacci(n-1) + fibbonacci(n-2));
+   }
+}
+
+int main() {
+   int n,i;
+   printf("Enter the number of fibonacci terms: ");
+   scanf("%d",&n);
+   printf("Fibbonacci of %d: " , n);
+	
+   for(i = 0;i<n;i++) {
+      printf("%d ",fibbonacci(i));            
+   }
+}
