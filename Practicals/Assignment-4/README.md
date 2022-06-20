@@ -30,12 +30,10 @@ Expected Output :
 Its very hot.
 ```
 7. Write a C program to find the eligibility of admission for a professional course
-based on
-the following criteria:
-Marks in Maths &gt;=65
-Marks in Phy &gt;=55
-Marks in Chem&gt;=50
-Total in all three subject &gt;=190
-or
-Total in Math and Physics &gt;=140
+based on the following criteria:
+- Marks in Maths &gt;=65
+- Marks in Phy &gt;=55
+- Marks in Chem&gt;=50
+- Total in all three subject &gt;=190
+-or Total in Math and Physics &gt;=140
 8. Write a c program to count total number of notes in entered amount.
