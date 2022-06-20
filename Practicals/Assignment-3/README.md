@@ -1,3 +1,6 @@
+## Assignment 3
+### Aim : To Study concepts of Decision Making & Branching
+
 1. Write a sample C program to illustrate decision making and branching
 statements used in C language( If ,if else,if else ladder,nested if else, Switch
 case )
