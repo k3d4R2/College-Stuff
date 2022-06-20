@@ -23,8 +23,10 @@ according to temperature state below :
 - Temp 10-20 then Cold weather
 - Temp 20-30 then Normal in Temp
 - Temp 30-40 then Its Hot
-- Temp &gt;=40 then Its Very Hot
-Test Data :42
+- Temp &gt;=40 then Its Very Hot  
+
+Test Data :42  
+
 Expected Output :
 ```
 Its very hot.
