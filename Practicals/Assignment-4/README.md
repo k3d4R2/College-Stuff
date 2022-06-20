@@ -12,7 +12,8 @@ increased by 1
 ```1
 23
 456
-7 8 9 10```
+7 8 9 10
+```
 6. Write a C program to read temperature in centigrade and display a suitable
 message
 according to temperature state below :
