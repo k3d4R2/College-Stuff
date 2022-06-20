@@ -12,4 +12,6 @@
 6. Write C program that convert a lowercase character to uppercase using a
 user defined function.
 7. Write a program in C to swap two numbers using function. (Perform call by
-value and call by reference).
+value and call by reference).[^1]
+
+[^1]: Seperate Programs
