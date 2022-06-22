@@ -71,6 +71,37 @@ build Q1: C_EXECUTABLE_LINKER__Q1_Debug CMakeFiles/Q1.dir/Q1.c.o
   TARGET_FILE = Q1
   TARGET_PDB = Q1.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Q2
+
+
+#############################################
+# Order-only phony target for Q2
+
+build cmake_object_order_depends_target_Q2: phony || CMakeFiles/Q2.dir
+
+build CMakeFiles/Q2.dir/Q2.c.o: C_COMPILER__Q2_Debug /home/shirou/Desktop/College$ work/PSC/College-Stuff/Practicals/Assignment-2/Q2.c || cmake_object_order_depends_target_Q2
+  DEP_FILE = CMakeFiles/Q2.dir/Q2.c.o.d
+  FLAGS = -g -std=gnu11
+  OBJECT_DIR = CMakeFiles/Q2.dir
+  OBJECT_FILE_DIR = CMakeFiles/Q2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Q2
+
+
+#############################################
+# Link the executable Q2
+
+build Q2: C_EXECUTABLE_LINKER__Q2_Debug CMakeFiles/Q2.dir/Q2.c.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/Q2.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = Q2
+  TARGET_PDB = Q2.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -106,7 +137,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-2/cmake-build-debug
 
-build all: phony Q1
+build all: phony Q1 Q2
 
 # =============================================================================
 # Built-in targets

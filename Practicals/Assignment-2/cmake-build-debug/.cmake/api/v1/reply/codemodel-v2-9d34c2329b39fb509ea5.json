@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "Assignment_2",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -41,6 +43,13 @@
 					"id" : "Q1::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-Q1-Debug-f94a2b523a1116bafd3e.json",
 					"name" : "Q1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Q2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q2-Debug-4b18da31b6506ef3ced1.json",
+					"name" : "Q2",
 					"projectIndex" : 0
 				}
 			]
