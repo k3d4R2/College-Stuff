@@ -1,0 +1,5 @@
+/home/shirou/Desktop/College work/PSC/College-Stuff/cmake-build-debug/CMakeFiles/Q1.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/cmake-build-debug/CMakeFiles/Q2.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/cmake-build-debug/CMakeFiles/Q3.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
