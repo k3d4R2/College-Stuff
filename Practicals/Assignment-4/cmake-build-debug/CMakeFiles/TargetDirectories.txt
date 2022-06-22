@@ -1,0 +1,10 @@
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/Q1.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/Q2.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/Q3.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/Q4.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/Q5.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/Q6.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/Q7.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/Q8.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shirou/Desktop/College work/PSC/College-Stuff/Practicals/Assignment-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
