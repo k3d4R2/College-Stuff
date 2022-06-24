@@ -12,8 +12,8 @@
 
 2.  C Program to display array elements with memory  addresses.
 
-3. Write a C program to perform Arithmetic operations on two 3*3 matrix using switch case.
-	A and B are 3*3 input matrix and C is resultant matrix. (Use appropriate data in matrix)
+3. Write a C program to perform Arithmetic operations on two 3x3 matrix using switch case.
+	A and B are 3x3 input matrix and C is resultant matrix. (Use appropriate data in matrix)
 
 4. Write a C program for finding smallest and largest numbers from given numbers from elements of an array. 
 
