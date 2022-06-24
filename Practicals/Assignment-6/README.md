@@ -4,11 +4,10 @@
 
 
 1.  Write a C program to implement following concepts by using Array
-	- 1- Dimension array
-	- 2 Dimensional array
-	- 3 Dimensional array
-	
-  
+    - 1- Dimension array
+    - 2 Dimensional array
+    - 3 Dimensional array
+      
     by using scanf function only. 
 
 2.  C Program to display array elements with memory  addresses.
