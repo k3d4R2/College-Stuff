@@ -1,5 +1,5 @@
-### Assignment No 10
-## Aim: To Study Concept of Structures
+## Assignment No 10
+### Aim: To Study Concept of Structures
 
 1. Write a program to implement Structure in C.
 - Create any structure
