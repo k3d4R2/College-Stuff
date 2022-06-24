@@ -9,7 +9,7 @@ int main()
     printf("Enter two numbers to carry out arithmetic operations: ");
     scanf("%d %d",&a,&b);
     arithmeticOps(a,b);
-    printf("Enter two numbers to carry out logical operations: ");
+    printf("Enter two numbers to carry out logical and relational operations: ");
     scanf("%d %d",&a,&b);
     logicalRelationalOps(a,b);
     printf("Enter two numbers to carry out bitwise operators: ");
