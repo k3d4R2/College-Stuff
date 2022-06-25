@@ -27,7 +27,7 @@ int main()
     scanf("%d",&f);
     nestedDoWhileLoop(f);
 }
-forLoop(int n)
+int forLoop(int n)
 {
     int mul = 1;
     for(int i=1;i<=n;i++)
@@ -36,7 +36,7 @@ forLoop(int n)
     }
     return mul;
 }
-whileLoop(int n)
+int whileLoop(int n)
 {
     int rem,sum=0;
     while(n>0)
@@ -47,7 +47,7 @@ whileLoop(int n)
     }
     return sum;
 }
-dowhileLoop(int n)
+int dowhileLoop(int n)
 {
     int rem,rev=0;
     do
@@ -59,7 +59,7 @@ dowhileLoop(int n)
     while(n>0);
     return rev;
 }
-nestedForLoop(int n)
+void nestedForLoop(int n)
 {
     int i,j;
     for(i=0;i<n;i++)
@@ -71,7 +71,7 @@ nestedForLoop(int n)
         printf("\n");
     }
 }
-nestedWhileLoop(int n)
+void nestedWhileLoop(int n)
 {
 
     int i=1,j;
@@ -88,7 +88,7 @@ nestedWhileLoop(int n)
         }
 
 }
-nestedDoWhileLoop(int n)
+void nestedDoWhileLoop(int n)
 {
     int i=1,j;
     do
