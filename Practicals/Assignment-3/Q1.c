@@ -43,7 +43,7 @@ void isComposite(int n)
         printf("Not composite\n");
     }
 }
-grade(int n)
+void grade(int n)
 {
     if(n>= 40)
     {
@@ -62,7 +62,7 @@ grade(int n)
         printf("Fail\n");
     }
 }
-whichLargest(int x,int y,int z)
+void whichLargest(int x,int y,int z)
 {
     if(x>=y)
     {
@@ -87,7 +87,7 @@ whichLargest(int x,int y,int z)
         }
     }
 }
-whichDay(int n)
+void whichDay(int n)
 {
     switch(n)
     {
