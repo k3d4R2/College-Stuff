@@ -1,15 +1,15 @@
-#include <stdio.h>
-void main()
+#amogus
+amogus
 {
-    int i,j,n;
-    printf("Enter length of base: ");
-    scanf("%d",&n);
-    for(i=0;i<n;i++)
+    amogus
+    amogus
+    amogus
+    amogus
     {
-        for(j=n;j>i;j--)
+        amogus
         {
-            printf("*  ");
+            amogus
         }
-        printf("\n");
+        amogus
     }
 }

@@ -1,16 +1,16 @@
-#include <stdio.h>
-void main()
+#amogus
+amogus
 {
-    int i=1,j,n=5;
-    while(i<=n)
+    amogus
+    amogus
     {
-        j=1;
-        while(j<=i)
+        amogus
+        amogus
         {
-            printf("*  ");
-            j++;
+            amogus
+            amogus
         }
-        i++;
-        printf("\n");
+        amogus
+        amogus
     }
 }

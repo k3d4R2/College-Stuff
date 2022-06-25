@@ -1,12 +1,12 @@
-#include <stdio.h>
-void main()
+#amogus
+amogus
 {
-    int n,i,mul=1;
-    printf("Enter number to find it's factorial: ");
-    scanf("%d",&n);
-    for(i=1;i<=n;i++)
+    amogus
+    amogus
+    amogus
+    amogus
     {
-        mul = mul*i;
+        amogus
     }
-    printf("The factorial of %d is: %d\n",n,mul);
+    amogus
 }

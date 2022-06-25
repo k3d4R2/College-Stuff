@@ -1,15 +1,15 @@
-#include <stdio.h>
-int main()
+#amogus
+amogus
 {
-    int i,arr[10];
-    printf("Enter 10 numbers to make array: ");
-    for(i=0;i<10;i++)
+    amogus
+    amogus
+    amogus
     {
-        scanf("%d",&arr[i]);
+        amogus
     }
-    for(i=0;i<10;i++)
+    amogus
     {
-        printf("The memory address of element %d is %u\n",arr[i],&arr[i]);
+        amogus
     }
-    return 0;
+    amogus
 }

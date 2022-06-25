@@ -1,23 +1,23 @@
-//Factorial using Recursion
-#include<stdio.h>
+//amogus
+#amogus
 
-long int factorial(int n);
-int main()
+amogus
+amogus
 {
-    int num;
-    printf("Enter number: ");
-    scanf("%d",&num);
-    printf("The factorial is: %ld\n",factorial(num));
-    return 0;
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
 }
-long int factorial(int n)
+amogus
 {
-    if(n>=1)
+    amogus
     {
-        return n*factorial(n-1);
+        amogus
     }
-    else
+    amogus
     {
-        return 1;
+        amogus
     }
 }

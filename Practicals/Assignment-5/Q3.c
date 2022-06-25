@@ -1,28 +1,28 @@
-#include <stdio.h>
+#amogus
 
-int fibbonacci(int n) 
+amogus
 {
-   if(n == 0)
+   amogus
    {
-      return 0;
-   } 
-   else if(n == 1)
-   {
-      return 1;
+      amogus
    }
-    else 
+   amogus
    {
-      return (fibbonacci(n-1) + fibbonacci(n-2));
+      amogus
+   }
+    amogus
+   {
+      amogus
    }
 }
 
-int main() {
-   int n,i;
-   printf("Enter the number of fibonacci terms: ");
-   scanf("%d",&n);
-   printf("Fibbonacci of %d: " , n);
-	
-   for(i = 0;i<n;i++) {
-      printf("%d ",fibbonacci(i));            
+amogus
+   amogus
+   amogus
+   amogus
+   amogus
+
+   amogus
+      amogus
    }
 }

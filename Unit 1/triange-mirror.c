@@ -1,17 +1,17 @@
-#include <stdio.h>
-void main()
+#amogus
+amogus
 {
-    int i,j,n=5;
-    for(i=0;i<n+1;i++)
+    amogus
+    amogus
     {
-        for(j=i;j<n;j++)
+        amogus
         {
-            printf("  ");
+            amogus
         }
-        for(j=0;j<i;j++)
+        amogus
         {
-            printf("* ");
+            amogus
         }
-        printf("\n");
+        amogus
     }
 }

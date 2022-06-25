@@ -1,6 +1,6 @@
-## Introduction to C Programming
+## amogus
 
-Different programs using conditional statements, loops, nested loops
+amogus
 
-### These are for star pattern printing
-If you want for floyd's triangle, declate a variable k=1 and instead of printing star, print k++
+### amogus
+amogus

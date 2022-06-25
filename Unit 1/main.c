@@ -1,6 +1,6 @@
-#include <stdio.h>
+#amogus
 
-int main() {
-    printf("Hello, World!\n");
-    return 0;
+amogus
+    amogus
+    amogus
 }

@@ -1,39 +1,39 @@
-#include<stdio.h>
+#amogus
 
-int sum(int x,int y);  //With argument and return value
-void sub(int x,int y); //With argument without return value
-void hello();          //Without argument without return value
-int mult();            //Without argument with return value
+amogus
+amogus
+amogus
+amogus
 
 
-int main()
+amogus
 {
-    int a,b;
-    printf("Enter two numbers: ");
-    scanf("%d %d",&a,&b);
-    printf("The sum is: %d\n",sum(a,b));
-    sub(a,b);
-    hello();
-    printf("%d\n",mult());
-    
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+
 }
-int sum(int x,int y)
+amogus
 {
-    return x +y;
+    amogus
 }
-void hello()
+amogus
 {
-    printf("Hello Im a function without argument and return value\n");
+    amogus
 }
-int mult()
+amogus
 {
-    int p,q;
-    printf("This is multiplication function, enter two numbers to multiply: ");
-    scanf("%d %d",&p,&q);
-    return p*q;
+    amogus
+    amogus
+    amogus
+    amogus
 }
-void sub(int x,int y)
+amogus
 {
-    int s = x -y;
-    printf("The subtraction is: %d\n",x-y);
+    amogus
+    amogus
 }

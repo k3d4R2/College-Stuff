@@ -1,42 +1,42 @@
-//Program to check the sum of rows and columns in a matrix , limit of 1000 rows and columns
+//amogus
 
-#include<stdio.h>
+#amogus
 
-int main()
+amogus
 {
-    int i, j, rows, columns, a[1000][1000], rsum,csum;
+    amogus
 
-    printf("Please Enter Number of rows and columns  :  ");
-    scanf("%d %d", &i, &j);
+    amogus
+    amogus
 
-    printf("Please Enter the Matrix Row and Column Elements \n");
-    for(rows = 0; rows < i; rows++)
+    amogus
+    amogus
     {
-        for(columns = 0; columns < j; columns++)
+        amogus
         {
-            scanf("%d", &a[rows][columns]);
+            amogus
         }
     }
 
-    for(rows = 0; rows < i; rows++)
+    amogus
     {
-        rsum = 0;
-        for(columns = 0; columns < j; columns++)
+        amogus
+        amogus
         {
-            rsum = rsum + a[rows][columns];
+            amogus
         }
-        printf("The Sum of Elements of Row %d =  %d \n",rows+1, rsum );
+        amogus
     }
 
-    for(columns = 0; columns < i; columns++)
+    amogus
     {
-        csum = 0;
-        for(rows = 0; rows < j; rows++)
+        amogus
+        amogus
         {
-            csum = csum + a[rows][columns];
+            amogus
         }
-        printf("The Sum of Elements of Column %d  =  %d \n",columns + 1, csum );
+        amogus
     }
 
-    return 0;
+    amogus
 }

@@ -1,21 +1,21 @@
-//1. Write a sample C program to illustrate Function in C.
-#include<stdio.h>
-int add(int x,int y);
-void hello();
-int main()
+//1. amogus
+#amogus
+amogus
+amogus
+amogus
 {
-    int a,b;
-    printf("Enter two numbers to see the addition: ");
-    scanf("%d %d",&a,&b);
-    printf("The sum is: %d\n",add(a,b));
-    hello();
-    return 0;
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
 }
-int add(int x, int y) 
+amogus
 {
-    return x + y;
+    amogus
 }
-void hello()
+amogus
 {
-    printf("Hello\n");
+    amogus
 }

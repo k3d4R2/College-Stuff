@@ -1,105 +1,105 @@
-#include <stdio.h>
-int forLoop(int n);
-int whileLoop(int n);
-int dowhileLoop(int n);
-void nestedForLoop(int n);
-void nestedWhileLoop(int n);
-void nestedDoWhileLoop(int n);
-int main()
+#amogus
+amogus
+amogus
+amogus
+amogus
+amogus
+amogus
+amogus
 {
-    int a,b,c,d,e,f;
-    printf("Enter a number to calculate factorial: ");
-    scanf("%d",&a);
-    printf("The factorial is: %d\n",forLoop(a));
-    printf("Enter a number to check the sum of its digits: ");
-    scanf("%d",&b);
-    printf("The sum of digits is: %d\n", whileLoop(b));
-    printf("Enter a number to reverse: ");
-    scanf("%d",&c);
-    printf("The reverse is: %d\n", dowhileLoop(c));
-    printf("Enter number for base of right angle triangle: ");
-    scanf("%d",&d);
-    nestedForLoop(d);
-    printf("Enter number to make square pattern till: ");
-    scanf("%d",&e);
-    nestedWhileLoop(e);
-    printf("Enter number till which to print number pattern: ");
-    scanf("%d",&f);
-    nestedDoWhileLoop(f);
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
 }
-forLoop(int n)
+amogus
 {
-    int mul = 1;
-    for(int i=1;i<=n;i++)
+    amogus
+    amogus
     {
-        mul = mul*i;
+        amogus
     }
-    return mul;
+    amogus
 }
-whileLoop(int n)
+amogus
 {
-    int rem,sum=0;
-    while(n>0)
+    amogus
+    amogus
     {
-        rem = n%10;
-        sum = sum + rem;
-        n = n/10;
+        amogus
+        amogus
+        amogus
     }
-    return sum;
+    amogus
 }
-dowhileLoop(int n)
+amogus
 {
-    int rem,rev=0;
-    do
+    amogus
+    amogus
     {
-        rem = n%10;
-        rev = rev*10 + rem;
-        n = n/10;
+        amogus
+        amogus
+        amogus
     }
-    while(n>0);
-    return rev;
+    amogus
+    amogus
 }
-nestedForLoop(int n)
+amogus
 {
-    int i,j;
-    for(i=0;i<n;i++)
+    amogus
+    amogus
     {
-        for(j=0;j<=i;j++)
+        amogus
         {
-            printf("* ");
+            amogus
         }
-        printf("\n");
+        amogus
     }
 }
-nestedWhileLoop(int n)
+amogus
 {
 
-    int i=1,j;
-    while(i<=n)
+    amogus
+    amogus
     {
-        j=1;
-        while(j<=n)
+        amogus
+        amogus
         {
-            printf("%d ",j);
-            j++;
+            amogus
+            amogus
         }
-            printf("\n");
-            i++;
+            amogus
+            amogus
         }
 
 }
-nestedDoWhileLoop(int n)
+amogus
 {
-    int i=1,j;
-    do
+    amogus
+    amogus
     {
-        j=1;
-        do
+        amogus
+        amogus
         {
-            printf("%d ",j);
-            j++;
-        }while(j<=i);
-        printf("\n");
-        i++;
-    }while(i<=n);
+            amogus
+            amogus
+        }amogus
+        amogus
+        amogus
+    }amogus
 }

@@ -1,13 +1,13 @@
-#include <stdio.h>
-char uppercase(char c);
-int main()
+#amogus
+amogus
+amogus
 {
-    char ch;
-    printf("Enter a character: ");
-    scanf("%c",&ch);
-    printf("The uppercase is: %c", uppercase(ch));
+    amogus
+    amogus
+    amogus
+    amogus
 }
-char uppercase(char c)
+amogus
 {
-    return c - 32;
+    amogus
 }

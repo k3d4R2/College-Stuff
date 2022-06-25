@@ -1,26 +1,26 @@
-## Assignment no. 06
+## amogus
 
-### Aim: To Study Basic Concept of Arrays.
+### amogus
 
 
-1.  Write a C program to implement following concepts by using Array
-    - 1- Dimension array
-    - 2 Dimensional array
-    - 3 Dimensional array
-      
-    by using scanf function only. 
+1.  amogus
+    - 1- amogus
+    - 2 amogus
+    - 3 amogus
 
-2.  C Program to display array elements with memory  addresses.
+    amogus
 
-3. Write a C program to perform Arithmetic operations on two 3x3 matrix using switch case.
-	A and B are 3x3 input matrix and C is resultant matrix. (Use appropriate data in matrix)
+2.  amogus
 
-4. Write a C program for finding smallest and largest numbers from given numbers from elements of an array. 
+3. amogus
+	amogus
 
-5. Write a C program to Find Largest and Second Largest Elements in Array
+4. amogus
 
-6. Write a C Program to print all Non Repeated Elements in an Array
+5. amogus
 
-7.  Write a C program to copy and into another array in reverse.
+6. amogus
 
-8. Write a C program to store 10 integer element in an array and then separate all positive, negative and zeros in three different arrays.
+7.  amogus
+
+8. amogus

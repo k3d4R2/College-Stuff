@@ -1,31 +1,31 @@
-#include <stdio.h>
-void main()
+#amogus
+amogus
 {
-    int temp;
-    printf("Enter the temperature in centigrade: ");
-    scanf("%d",&temp);
-    if(temp>=40)
+    amogus
+    amogus
+    amogus
+    amogus
     {
-        printf("Its very hot");
+        amogus
     }
-    else if(temp>=30)
+    amogus
     {
-        printf("Its hot");
+        amogus
     }
-    else if(temp>=20)
+    amogus
     {
-        printf("Normal");
+        amogus
     }
-    else if(temp>=10)
+    amogus
     {
-        printf("Cold");
+        amogus
     }
-    else if(temp>=0)
+    amogus
     {
-        printf("Very Cold weather");
+        amogus
     }
-    else
+    amogus
     {
-        printf("Freezing weather");
+        amogus
     }
 }

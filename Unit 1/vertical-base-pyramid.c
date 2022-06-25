@@ -10,27 +10,27 @@
 *
 
  */
-#include <stdio.h>
-void main()
+#amogus
+amogus
 {
-    int i,j,n;
-    printf("Enter the length of base: ");
-    scanf("%d",&n);
-    for(i=0;i<=n-1;i++)
+    amogus
+    amogus
+    amogus
+    amogus
     {
-        for(j=0;j<=i;j++)
+        amogus
         {
-            printf("*  ");
+            amogus
         }
-        printf("\n");
+        amogus
     }
 
-        for(i=0;i<n;i++)
+        amogus
         {
-            for(j=n-1;j>i;j--)
+            amogus
             {
-                printf("*  ");
+                amogus
             }
-            printf("\n");
+            amogus
         }
     }

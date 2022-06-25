@@ -1,22 +1,22 @@
-#include <stdio.h>
+#amogus
 
-main() {
-    int n, i, c = 0;
-    printf("Enter any number n:");
-    scanf("%d", &n);
+amogus
+    amogus
+    amogus
+    amogus
 
 
-    for (i = 1; i < n; i++) {
-        if (n % i == 0) {
-            c++;    //we consider a counter c which will check how many times the condition is satisfied
+    amogus
+        amogus
+            amogus
         }
     }
 
-    if (c == 1) {
-        printf("n is a Prime number");
+    amogus
+        amogus
     }
-    else {
-        printf("n is not a Prime number");
+    amogus
+        amogus
     }
-    return 0;
+    amogus
 }

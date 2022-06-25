@@ -1,21 +1,21 @@
-#include <stdio.h>
-int main()
+#amogus
+amogus
 {
-    int i,j,n=5;
-    for(i=1;i<=n;i++)
+    amogus
+    amogus
     {
-        for(j=i;j<=i;j++)
+        amogus
         {
-            if(j==1 || j==i || i==n)
+            amogus
             {
-                printf("* ");
+                amogus
             }
-            else{
-                printf("  ");
+            amogus
+                amogus
             }
         }
-        printf("\n");
+        amogus
 
     }
-    return 0;
+    amogus
 }

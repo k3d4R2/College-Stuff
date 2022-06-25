@@ -1,14 +1,14 @@
-#include <stdio.h>
-int main()
+#amogus
+amogus
 {
-    int num, sum=0, rem;
-    printf("Enter the number: ");
-    scanf("%d", &num);
-    while (num>0){
-        rem = num%10;
-        sum = sum + rem;
-        num = num/10;
+    amogus
+    amogus
+    amogus
+    amogus
+        amogus
+        amogus
+        amogus
     }
-    printf("The sum of digits is: %d",sum);
-    return 0;
+    amogus
+    amogus
 }

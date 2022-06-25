@@ -1,19 +1,19 @@
-#include <stdio.h>
-void main()
+#amogus
+amogus
 {
-    int m,p,c;
-    printf("Enter marks in Maths, Physics and Chemistry: ");
-    scanf("%d %d %d",&m,&p,&c);
-    if(m>=65 && p>=55 && c>=50)
+    amogus
+    amogus
+    amogus
+    amogus
     {
-        printf("Eligible for admission");
+        amogus
     }
-    else if(m+p+c>=190 || m+p>=140)
+    amogus
     {
-        printf("Eligible for admission");
+        amogus
     }
-    else
+    amogus
     {
-        printf("Not eligible for admission");
+        amogus
     }
 }

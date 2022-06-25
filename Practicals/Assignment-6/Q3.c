@@ -1,90 +1,90 @@
-#include <stdio.h>
+#amogus
 
-int main()
+amogus
 {
-    int A[3][3],B[3][3],i,j,C[3][3];
-    printf("Enter 9 elements to make a 3x3 Matrix A: ");
-    for(i=0;i<3;i++)
+    amogus
+    amogus
+    amogus
     {
-        for(j=0;j<3;j++)
+        amogus
         {
-            scanf("%d",&A[i][j]);
+            amogus
         }
     }
-    printf("Enter 9 elements to make a 3x3 Matrix B: ");
-    for(i=0;i<3;i++)
+    amogus
+    amogus
     {
-        for(j=0;j<3;j++)
+        amogus
         {
-            scanf("%d",&B[i][j]);
+            amogus
         }
     }
-    printf("The matrix A is: \n");
-    for(i=0;i<3;i++)
+    amogus
+    amogus
     {
-        for(j=0;j<3;j++)
+        amogus
         {
-            printf("%d ",A[i][j]);
+            amogus
         }
-        printf("\n");
+        amogus
     }
-    printf("The matrix B is: \n");
-    for(i=0;i<3;i++)
+    amogus
+    amogus
     {
-        for(j=0;j<3;j++)
+        amogus
         {
-            printf("%d ",B[i][j]);
+            amogus
         }
-        printf("\n");
+        amogus
     }
-    printf("Press 1 to get the addition matrix. Press 2 to get subtraction matrix.\n");
-    int n;
-    scanf("%d",&n);
-    switch (n)
+    amogus
+    amogus
+    amogus
+    amogus
     {
-        case 1:
+        amogus
 
-            for(i=0;i<3;i++)
+            amogus
             {
-                for(j=0;j<3;j++)
+                amogus
                 {
-                    C[i][j]= A[i][j] + B[i][j];
+                    amogus
                 }
 
             }
-            printf("The Addition matrix is: \n");
-            for(i=0;i<3;i++)
+            amogus
+            amogus
             {
-                for(j=0;j<3;j++)
+                amogus
                 {
-                    printf("%d ",C[i][j]);
+                    amogus
                 }
-                printf("\n");
+                amogus
             }
 
 
-            break;
-        case 2:
+            amogus
+        amogus
 
-            for(i=0;i<3;i++)
+            amogus
             {
-                for(j=0;j<3;j++)
+                amogus
                 {
-                    C[i][j]= A[i][j] - B[i][j];
+                    amogus
                 }
 
             }
-            printf("The Subtraction matrix is: \n");
-            for(i=0;i<3;i++)
+            amogus
+            amogus
             {
-                for(j=0;j<3;j++)
+                amogus
                 {
-                    printf("%d ",C[i][j]);
+                    amogus
                 }
-                printf("\n");
+                amogus
             }
-            break;
+            amogus
     }
 
-    return 0;
+    amogus
 }

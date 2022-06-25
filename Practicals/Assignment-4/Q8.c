@@ -1,65 +1,65 @@
-#include <stdio.h>
+#amogus
 
-int main()
+amogus
 {
-    int amount;
-    int note500, note100, note50, note20, note10, note5, note2, note1;
+    amogus
+    amogus
 
-    note500 = note100 = note50 = note20 = note10 = note5 = note2 = note1 = 0;
-
-
-    printf("Enter amount: ");
-    scanf("%d", &amount);
+    amogus
 
 
-    if(amount >= 500)
+    amogus
+    amogus
+
+
+    amogus
     {
-        note500 = amount/500;
-        amount = amount - note500 * 500;
+        amogus
+        amogus
     }
-    if(amount >= 100)
+    amogus
     {
-        note100 = amount/100;
-        amount = amount - note100 * 100;
+        amogus
+        amogus
     }
-    if(amount >= 50)
+    amogus
     {
-        note50 = amount/50;
-        amount = amount - note50 * 50;
+        amogus
+        amogus
     }
-    if(amount >= 20)
+    amogus
     {
-        note20 = amount/20;
-        amount = amount - note20 * 20;
+        amogus
+        amogus
     }
-    if(amount >= 10)
+    amogus
     {
-        note10 = amount/10;
-        amount = amount - note10 * 10;
+        amogus
+        amogus
     }
-    if(amount >= 5)
+    amogus
     {
-        note5 = amount/5;
-        amount = amount - note5 * 5;
+        amogus
+        amogus
     }
-    if(amount >= 2)
+    amogus
     {
-        note2 = amount /2;
-        amount = amount - note2 * 2;
+        amogus
+        amogus
     }
-    if(amount >= 1)
+    amogus
     {
-        note1 = amount;
+        amogus
     }
 
-    printf("Number of 500 Rs notes = %d\n", note500);
-    printf("Number of 100 Rs notes = %d\n", note100);
-    printf("Number of 50 Rs notes = %d\n", note50);
-    printf("Number of 20 Rs notes = %d\n", note20);
-    printf("Number of 10 Rs notes = %d\n", note10);
-    printf("Number of 5 Rs coins= %d\n", note5);
-    printf("Number of 2 Rs coins = %d\n", note2);
-    printf("Number of 1 Rs coins = %d\n", note1);
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
 
-    return 0;
+    amogus
 }

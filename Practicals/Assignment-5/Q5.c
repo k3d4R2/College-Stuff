@@ -1,21 +1,21 @@
-//Sum of numbers using Recursion
-#include<stdio.h>
+//amogus
+#amogus
 
-long int sigma(int n);
-int main()
+amogus
+amogus
 {
-    int num=10;
-    printf("The sum of numbers from 1 to 10 is: %ld\n",sigma(num));
-    return 0;
+    amogus
+    amogus
+    amogus
 }
-long int sigma(int n)
+amogus
 {
-    if(n>=1)
+    amogus
     {
-        return n+ sigma(n-1);
+        amogus
     }
-    else
+    amogus
     {
-        return 0;
+        amogus
     }
 }

@@ -1,13 +1,13 @@
-#include <stdio.h>
-void main()
+#amogus
+amogus
 {
-    int i,j,n,arr[20];
-    printf("Enter size of array: ");
-    scanf("%d",&n);
-    printf("Enter elements");
-    for(i=0;i<n;i++)
+    amogus
+    amogus
+    amogus
+    amogus
+    amogus
     {
-        scanf("%d",&arr[i]);
+        amogus
     }
-    
+
 }
