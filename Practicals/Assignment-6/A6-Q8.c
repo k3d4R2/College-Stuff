@@ -25,9 +25,10 @@ int main()
             neg[negcount]=arr[i];
             negcount++;
         }
-        else
+        if(arr[i]=0)
         {
             zero[zerocount]=arr[i];
+            zerocount++;
         }
     }
     printf("\nThe array of positive elements is: ");
