@@ -25,7 +25,7 @@ int main()
             neg[negcount]=arr[i];
             negcount++;
         }
-        if(arr[i]=0)
+        if(arr[i]==0)
         {
             zero[zerocount]=arr[i];
             zerocount++;
