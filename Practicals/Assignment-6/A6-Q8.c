@@ -20,12 +20,12 @@ int main()
             pos[poscount]=arr[i];
             poscount++;
         }
-        if(arr[i]<0)
+        else if(arr[i]<0)
         {
             neg[negcount]=arr[i];
             negcount++;
         }
-        if(arr[i]==0)
+        else
         {
             zero[zerocount]=arr[i];
         }
@@ -45,4 +45,5 @@ int main()
     {
         printf("%d ",zero[i]);
     }
+
 }
