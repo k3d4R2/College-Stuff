@@ -19,6 +19,7 @@ int main()
         }
         printf("\n");
     }
+    //checking sum of row elements
     for(i=0;i<3;i++)
     {
         for(j=0;j<3;j++)
@@ -26,6 +27,7 @@ int main()
             rsum = rsum + mat[i][j];
         }
     }
+    //Checking sum of column elements
     for(j=0;j<3;j++)
     {
         for(i=0;i<3;i++)
@@ -33,6 +35,7 @@ int main()
             csum = csum + mat[i][j];
         }
     }
+    //Checking sum of diagonal elements
     for(i=0;i<3;i++)
     {
         for(j=0;j<3;j++)
