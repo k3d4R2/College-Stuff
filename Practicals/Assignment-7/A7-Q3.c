@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int mat[3][3],i,j,rsum=0,csum=0;
+    int mat[3][3],i,j,rsum=0,csum=0,diagsum=0;
     printf("Enter a 3x3 Matrix ");
     for(i=0;i<3;i++)
     {
@@ -33,14 +33,22 @@ int main()
             csum = csum + mat[i][j];
         }
     }
-    if(csum==rsum)
+    for(i=0;i<3;i++)
     {
-        printf("The given matrix is magic square");
+        for(j=0;j<3;j++)
+        {
+            if(i==j)
+            {
+                diagsum = diagsum + mat[i][j];
+            }
+        }
+    }
+    if(rsum==csum && csum==(3*diagsum))
+    {
+        printf("The matrix is magic square");
     }
     else
     {
-        printf("Not magic square.");
+        printf("Not magic square");
     }
-    return 0;
-
 }
