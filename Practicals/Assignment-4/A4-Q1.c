@@ -1,10 +1,5 @@
 #include <stdio.h>
-int forLoop(int n);
-int whileLoop(int n);
-int dowhileLoop(int n);
-void nestedForLoop(int n);
-void nestedWhileLoop(int n);
-void nestedDoWhileLoop(int n);
+
 int main()
 {
     int a;
@@ -28,80 +23,51 @@ int main()
     printf("The sum of digits is: %d\n", sum);
     printf("Enter a number to reverse: ");
     scanf("%d",&a);
-    int rem,rev=0;
+    int rem1,rev=0;
     do
     {
-        rem = a%10;
-        rev = rev*10 + rem;
+        rem1 = a%10;
+        rev = rev*10 + rem1;
         a = a/10;
     }
     while(a>0);
     printf("The reverse is: %d\n", rev);
     printf("Enter number for base of right angle triangle: ");
-    scanf("%d",&d);
-    nestedForLoop(d);
-    printf("Enter number to make square pattern till: ");
-    scanf("%d",&e);
-    nestedWhileLoop(e);
-    printf("Enter number till which to print number pattern: ");
-    scanf("%d",&f);
-    nestedDoWhileLoop(f);
-}
-forLoop(int n)
-{
-
-}
-whileLoop(int n)
-{
-
-    return sum;
-}
-dowhileLoop(int n)
-{
-
-    return rev;
-}
-nestedForLoop(int n)
-{
-    int i,j;
-    for(i=0;i<n;i++)
+    scanf("%d",&a);
+    for(int i=0;i<a;i++)
     {
-        for(j=0;j<=i;j++)
+        for(int j=0;j<=i;j++)
         {
             printf("* ");
         }
         printf("\n");
     }
-}
-nestedWhileLoop(int n)
-{
-
-    int i=1,j;
-    while(i<=n)
+    printf("Enter number to make square pattern till: ");
+    scanf("%d",&a);
+    int i,j;
+    while(i<=a)
     {
-        j=1;
-        while(j<=n)
+        int j=1;
+        while(j<=a)
         {
             printf("%d ",j);
             j++;
         }
-            printf("\n");
-            i++;
-        }
-
-}
-nestedDoWhileLoop(int n)
-{
-    int i=1,j;
-    do
-    {
-        j=1;
-        do
-        {
-            printf("%d ",j);
-            j++;
-        }while(j<=i);
         printf("\n");
         i++;
-    }while(i<=n);
+    }
+    printf("Enter number till which to print number pattern: ");
+    scanf("%d",&a);
+    int i1=1,j1;
+    do
+    {
+        j1=1;
+        do
+        {
+            printf("%d ",j1);
+            j1++;
+        }while(j1<=i1);
+        printf("\n");
+        i1++;
+    }while(i1<=a);
 }
