@@ -20,7 +20,7 @@ int main()
     }
     else
     {
-        printf("Not palindrome");
+        printf("The string is not palindrome");
     }
 }
 
