@@ -19,7 +19,7 @@ int main()
      }
      for(i=0;i<n;i++)
      {
-         printf("Integer is: %d", *(ptr+i));
+         printf("Integer is: %d\n", *(ptr+i));
      }
      
      return 0;
