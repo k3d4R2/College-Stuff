@@ -4,7 +4,8 @@ int main()
 {
         int votes[6] = { 0, 0, 0, 0, 0, 0 }, cand = 0, i;
         char keepgoing = 'y';
-while (keepgoing == 'y') {
+while (keepgoing == 'y') 
+{
 printf("Enter your candidate:");
 scanf("%d", &cand);
 switch (cand)
