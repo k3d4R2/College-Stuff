@@ -1,4 +1,4 @@
-## Assignment No 07
+## Assignment No 08
 ### Aim: To Study Concept of Pointers and dynamic memory allocation
 1) Write a program for handling dynamic array memory using malloc()/calloc()/realloc() and free () functions.
 
