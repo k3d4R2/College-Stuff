@@ -24,11 +24,18 @@ int main()
     fprintf(fptr,"%d",num);  //Writes the number into the file
     fclose(fptr);
 
-    //append string using fgets()
+    //append string using fputs()
     fptr = fopen("/home/shirou/Desktop/hello.txt","w");
     fputs("Hello World",fptr);
     fseek(fptr,6,SEEK_SET);
-    fputs(" India",fptr);
+    fputs("India",fptr);
+    fclose(fptr);
+
+    //get string using fgets()
+    char str[60];
+    fptr = fopen("/home/shirou/Desktop/hello.txt","r");
+    fgets(str,60,fptr);
+    printf("%s\n",str);
     fclose(fptr);
 
     //write character using fputc()
@@ -40,5 +47,8 @@ int main()
     char ch;
     ch = fgetc(fptr);
     printf("The character read is: %c",ch);
+    fclose(fptr);
+
     return 0;
 }
+
