@@ -40,8 +40,8 @@ int main()
 
     //write character using fputc()
     fptr = fopen("/home/shirou/Desktop/hello.txt","w");
-    chat str1[1];
-    fputs(,stdin);
+    char str1[1];
+    fputs(str1,stdin);
     fclose(fptr);
 
     fptr = fopen("/home/shirou/Desktop/hello.txt","r");
