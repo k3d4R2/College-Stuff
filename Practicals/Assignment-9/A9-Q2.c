@@ -16,11 +16,11 @@ int main()
     int k = strcmp ( str1,str2); //Comparing with reverse
     if(k==0)
     {
-        printf("The string is palindrome");
+        printf("The string is palindrome\n");
     }
     else
     {
-        printf("The string is not palindrome");
+        printf("The string is not palindrome\n");
     }
 }
 
