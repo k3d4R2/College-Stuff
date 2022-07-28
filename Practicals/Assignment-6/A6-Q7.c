@@ -21,4 +21,5 @@ int main()
     {
         printf("%d ",revarr[i]);
     }
+    printf("\n");
 }

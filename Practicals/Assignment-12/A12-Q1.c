@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include <stdlib.h>
 int main()
 {
     int num;
@@ -40,7 +40,8 @@ int main()
 
     //write character using fputc()
     fptr = fopen("/home/shirou/Desktop/hello.txt","w");
-    fputc('H',fptr);
+    chat str1[1];
+    fputs(,stdin);
     fclose(fptr);
 
     fptr = fopen("/home/shirou/Desktop/hello.txt","r");
